@@ -16,5 +16,4 @@
 ```python
 def teste()
     print("Teste")
-    ```
-    
+```
