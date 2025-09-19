@@ -12,3 +12,9 @@
 **Negrito**
 
 [Texto do link](https://www.youtube.com/watch?v=kB5e-gTAl_s)
+
+```python
+def teste()
+    print("Teste")
+    ```
+    
